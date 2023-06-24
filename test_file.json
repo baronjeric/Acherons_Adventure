@@ -1,0 +1,83 @@
+https://alpha.staging.dragonscrossing.com/api/tests/import/16/hero_starting_warrior.json?key=Hjh76yttgfr
+
+https://alpha.staging.dragonscrossing.com/api/tests/import/9/hero_starting_warrior.json?key=Hjh76yttgfr
+
+https://gameBalance.staging.dragonscrossing.com/api/tests/import/39/starting_hero_4_5_2023.json?key=Hjh76yttgfr
+
+https://gameBalance.staging.dragonscrossing.com/api/tests/export/39/?key=Hjh76yttgfr
+
+https://main.staging.dragonscrossing.com/api/tests/import/27/starting_hero_4_5_2023.json?key=Hjh76yttgfr
+
+https://alpha.staging.dragonscrossing.com/api/tests/import/37/hero_starting_warrior.json?key=Hjh76yttgfr
+
+https://main.staging.dragonscrossing.com/api/tests/import/27/starting_hero_clean_3_24_2023_jb_eric_game_balance.json?key=Hjh76yttgfr
+
+https://github.com/deeNewearth/dcxgamestates
+
+load season:
+https://main.staging.dragonscrossing.com/api/season/loadseason/season1.json
+
+Check season:
+https://main.staging.dragonscrossing.com/api/season/openseasons
+
+
+
+
+
+
+
+hero_starting_warrior.json
+
+
+
+non combat eencounter text: DragonsCrossing.Core/templates/nonCombat/chanceEncounter_result.json
+
+logic: C:\Users\cses0\Source\Repos\DragonsCrossingApi\DragonsCrossing.Core\Contracts\Api\Dto\Zones\NonCombat\NonCombatActions\ChanceEncounterFinish.cs
+
+
+export declare const DiceRollReason: {
+    readonly HeroGoesFirst: "HeroGoesFirst";
+    readonly MonsterGoesFirst: "MonsterGoesFirst";
+    readonly DidHeroHit: "DidHeroHit";
+    readonly DidMonsterHit: "DidMonsterHit";
+    readonly DidHeroParry: "DidHeroParry";
+    readonly DidMonsterParry: "DidMonsterParry";
+    readonly DidHeroCrit: "DidHeroCrit";
+    readonly DidMonsterCrit: "DidMonsterCrit";
+    readonly EquipmentDamage: "EquipmentDamage";
+    readonly MonsterDieDamage: "MonsterDieDamage";
+    readonly SpecialAbility: "SpecialAbility";
+    readonly SkillDamageRightAway: "SkillDamageRightAway";
+    readonly SkillLingeringDamage: "SkillLingeringDamage";
+    readonly SkillHealing: "SkillHealing";
+    readonly ChooseMonster: "ChooseMonster";
+    readonly MonsterUsedSpecialAbility: "MonsterUsedSpecialAbility";
+    readonly HeroChanceToDodge: "HeroChanceToDodge";
+    readonly MonsterChanceToDodge: "MonsterChanceToDodge";
+    readonly DidHeroFlee: "DidHeroFlee";
+    readonly General: "General";
+    readonly LevelUpHitPoints: "levelUpHitPoints";
+    readonly LevelUpStats: "levelUpStats";
+    readonly : "chanceEncounter";
+    readonly CombatOrNonCombat: "combatOrNonCombat";
+    readonly RollForCharismaOpportunity: "RollForCharismaOpportunity";
+    readonly HeroCharismaRoll: "HeroCharismaRoll";
+    readonly MonsterCharismaRoll: "MonsterCharismaRoll";
+	
+	
+};
+
+
+
+Tiers for seasons (meaning losers are paired with other losers)
+Tiers for mint (meaning distinction and price discrimination between brackets)
+
+
+loan agreement
+due on sale clause
+.
+
+
+3 years hands on experience 
+send githubs
+
